@@ -1,6 +1,6 @@
 {
   "name": "react-js-pull-to-refresh",
-  "version": "1.2.1@CE0.0.1",
+  "version": "1.2.1@CE",
   "description": "React pull to refresh",
   "main": "dist/src/index.js",
   "typings": "./dist/src/index.d.ts",
