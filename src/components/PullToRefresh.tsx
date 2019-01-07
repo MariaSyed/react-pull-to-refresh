@@ -174,8 +174,7 @@ export class PullToRefresh extends React.Component<PullToRefreshProps, PullToRef
     public render() {
         const {backgroundColor} = this.props;
         const containerStyle: React.CSSProperties = {
-            height: "auto",
-            overflow: "hidden",
+            height: "100%",
             WebkitOverflowScrolling: "touch",
             position: "relative",
             zIndex: 1,
